@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RahulRelekar/login-logout-task/static/css/main.2d6880e5.css",
+    "main.js": "/RahulRelekar/login-logout-task/static/js/main.e9a25934.js",
+    "index.html": "/RahulRelekar/login-logout-task/index.html",
+    "main.2d6880e5.css.map": "/RahulRelekar/login-logout-task/static/css/main.2d6880e5.css.map",
+    "main.e9a25934.js.map": "/RahulRelekar/login-logout-task/static/js/main.e9a25934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6880e5.css",
+    "static/js/main.e9a25934.js"
+  ]
+}
